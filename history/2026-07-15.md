@@ -8,11 +8,11 @@ Séance observée : 2026-07-14.
 - 13 actifs suivis sur 13.
 - 8 configurations déclenchées, 5 sans déclenchement.
 - Aucun épisode de faible volatilité sur la période.
-- Bilan de la journée : légèrement positif, niveau de référence — rien à conclure.
+- Bilan de la journée : positif, niveau de référence — rien à conclure.
 
 ## Lecture du marché
-- Tendance de fond : majorité en consolidation (8 sur 13), quelques-uns en transition (3 sur 13), deux en tendance haussière. Marché globalement sans direction franche.
-- Volatilité : élevée sur la majorité des actifs ; détente relative en fin de période sur une minorité.
+- Tendance de fond : consolidation 8 sur 13, transition 3 sur 13, hausse 2 sur 13. Marché globalement sans direction franche.
+- Volatilité : élevée sur 8 des 13 actifs à la dernière séance.
 - Une dimension d'analyse (moment de la séance) a été écartée car trop peu fréquente pour être fiable — sans réglage a posteriori.
 
 ## Signaux
