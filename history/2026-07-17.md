@@ -15,6 +15,24 @@ Séance observée : 2026-07-16.
 - Volatilité : élevée sur 7 des 13 actifs à la dernière séance.
 - Une dimension d'analyse (moment de la séance) a été écartée car trop peu fréquente pour être fiable — sans réglage a posteriori.
 
+## Lecture par actif (timeframe calculé : 1D — quotidien)
+
+| actif | timeframe | direction | régime | volatilité |
+|---|---|---|---|---|
+| QQQ | 1D | neutre | transition | élevée |
+| SPY | 1D | haussier | tendance | normale |
+| IWM | 1D | neutre | range | normale |
+| DIA | 1D | neutre | transition | normale |
+| XLK | 1D | haussier | tendance | élevée |
+| XLF | 1D | neutre | range | normale |
+| XLE | 1D | neutre | range | normale |
+| XLV | 1D | neutre | range | élevée |
+| XLY | 1D | neutre | range | élevée |
+| XLP | 1D | neutre | range | élevée |
+| XLI | 1D | neutre | range | élevée |
+| XLU | 1D | neutre | transition | normale |
+| XLB | 1D | neutre | range | élevée |
+
 ## Signaux
 - Rien de structurel. Dispersion normale entre gagnants et perdants, aucun cas hors norme.
 - Cohérence de la volatilité confirmée ; le régime de faible volatilité ne s'est pas présenté.
