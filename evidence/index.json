@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-07-18",
+  "evidence": [
+    {
+      "id": "pc3072218",
+      "category": "progression",
+      "asset": "IWM",
+      "timeframe": "Day trading",
+      "configuration": "Configuration P-001",
+      "updatedAt": "2026-07-12"
+    },
+    {
+      "id": "p5cc0d29f",
+      "category": "progression",
+      "asset": "META",
+      "timeframe": "Day trading",
+      "configuration": "Configuration P-002",
+      "updatedAt": "2026-07-12"
+    },
+    {
+      "id": "p5fc97e02",
+      "category": "progression",
+      "asset": "QQQ",
+      "timeframe": "Day trading",
+      "configuration": "Configuration P-003",
+      "updatedAt": "2026-07-12"
+    },
+    {
+      "id": "p64e8e81f",
+      "category": "progression",
+      "asset": "TSLA",
+      "timeframe": "Day trading",
+      "configuration": "Configuration P-004",
+      "updatedAt": "2026-07-12"
+    },
+    {
+      "id": "pb5e4ce1b",
+      "category": "exploratoire",
+      "asset": "SPY",
+      "timeframe": "Day trading",
+      "configuration": "Configuration P-005",
+      "updatedAt": "2026-07-12"
+    }
+  ]
+}
