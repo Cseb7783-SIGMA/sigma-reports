@@ -1,0 +1,17 @@
+{
+  "id": "tc9d34c91",
+  "episodeId": "e5380f2f8",
+  "record": {
+    "context": null,
+    "observations": null,
+    "agentDecision": null,
+    "entry": null,
+    "stop": null,
+    "target": null,
+    "management": null,
+    "exit": null,
+    "result": null,
+    "postMortem": null,
+    "learning": null
+  }
+}

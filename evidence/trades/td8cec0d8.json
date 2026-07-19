@@ -1,0 +1,17 @@
+{
+  "id": "td8cec0d8",
+  "episodeId": "eae44e48c",
+  "record": {
+    "context": null,
+    "observations": null,
+    "agentDecision": null,
+    "entry": null,
+    "stop": null,
+    "target": null,
+    "management": null,
+    "exit": null,
+    "result": null,
+    "postMortem": null,
+    "learning": null
+  }
+}

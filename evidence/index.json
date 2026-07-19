@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18",
+  "generated_at": "2026-07-19",
   "evidence": [
     {
       "id": "pc3072218",
@@ -7,7 +7,10 @@
       "asset": "IWM",
       "timeframe": "Day trading",
       "configuration": "Configuration P-001",
-      "updatedAt": "2026-07-12"
+      "updatedAt": "2026-07-12",
+      "status": "En accumulation — non validé",
+      "episodeCount": 18,
+      "tradeCount": 18
     },
     {
       "id": "p5cc0d29f",
@@ -15,7 +18,8 @@
       "asset": "META",
       "timeframe": "Day trading",
       "configuration": "Configuration P-002",
-      "updatedAt": "2026-07-12"
+      "updatedAt": "2026-07-12",
+      "status": "Candidat — non relié à un forward"
     },
     {
       "id": "p5fc97e02",
@@ -23,7 +27,10 @@
       "asset": "QQQ",
       "timeframe": "Day trading",
       "configuration": "Configuration P-003",
-      "updatedAt": "2026-07-12"
+      "updatedAt": "2026-07-12",
+      "status": "En accumulation — non validé",
+      "episodeCount": 13,
+      "tradeCount": 11
     },
     {
       "id": "p64e8e81f",
@@ -31,7 +38,8 @@
       "asset": "TSLA",
       "timeframe": "Day trading",
       "configuration": "Configuration P-004",
-      "updatedAt": "2026-07-12"
+      "updatedAt": "2026-07-12",
+      "status": "Candidat — non relié à un forward"
     },
     {
       "id": "pb5e4ce1b",
@@ -39,7 +47,10 @@
       "asset": "SPY",
       "timeframe": "Day trading",
       "configuration": "Configuration P-005",
-      "updatedAt": "2026-07-12"
+      "updatedAt": "2026-07-12",
+      "status": "En accumulation — non validé",
+      "episodeCount": 17,
+      "tradeCount": 17
     }
   ]
 }

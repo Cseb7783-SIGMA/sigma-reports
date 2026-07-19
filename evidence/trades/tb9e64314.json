@@ -1,0 +1,17 @@
+{
+  "id": "tb9e64314",
+  "episodeId": "ec29ab90d",
+  "record": {
+    "context": "Volatilité normale — 2026-07-10",
+    "observations": null,
+    "agentDecision": null,
+    "entry": null,
+    "stop": null,
+    "target": null,
+    "management": null,
+    "exit": null,
+    "result": null,
+    "postMortem": null,
+    "learning": null
+  }
+}

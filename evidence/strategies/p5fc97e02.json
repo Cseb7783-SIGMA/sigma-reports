@@ -1,0 +1,134 @@
+{
+  "episodes": [
+    {
+      "id": "e673c77d3",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-06-30",
+      "startDate": "2026-06-30",
+      "endDate": "2026-06-30",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 1
+    },
+    {
+      "id": "e97104d82",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-07-01",
+      "startDate": "2026-07-01",
+      "endDate": "2026-07-01",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 0
+    },
+    {
+      "id": "ee67f6381",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-07-02",
+      "startDate": "2026-07-02",
+      "endDate": "2026-07-02",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 1
+    },
+    {
+      "id": "e0d13bab1",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-07-06",
+      "startDate": "2026-07-06",
+      "endDate": "2026-07-06",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 1
+    },
+    {
+      "id": "e5e9ab9b6",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-07-07",
+      "startDate": "2026-07-07",
+      "endDate": "2026-07-07",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 1
+    },
+    {
+      "id": "e45ee66c8",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-07-08",
+      "startDate": "2026-07-08",
+      "endDate": "2026-07-08",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 1
+    },
+    {
+      "id": "eb565c62a",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-07-09",
+      "startDate": "2026-07-09",
+      "endDate": "2026-07-09",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 1
+    },
+    {
+      "id": "ec29ab90d",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-07-10",
+      "startDate": "2026-07-10",
+      "endDate": "2026-07-10",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 1
+    },
+    {
+      "id": "e9f71bbaa",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-07-13",
+      "startDate": "2026-07-13",
+      "endDate": "2026-07-13",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 1
+    },
+    {
+      "id": "e012752e1",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-07-14",
+      "startDate": "2026-07-14",
+      "endDate": "2026-07-14",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 1
+    },
+    {
+      "id": "ec7ec3043",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-07-15",
+      "startDate": "2026-07-15",
+      "endDate": "2026-07-15",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 1
+    },
+    {
+      "id": "e797eb84c",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-07-16",
+      "startDate": "2026-07-16",
+      "endDate": "2026-07-16",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 1
+    },
+    {
+      "id": "e0a6d8126",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-07-17",
+      "startDate": "2026-07-17",
+      "endDate": "2026-07-17",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 0
+    }
+  ]
+}
