@@ -2,17 +2,17 @@
 
 Statut : observation seulement, exploratoire. Rien n'est confirmé ni validé. Aucune position réelle. Pour information, pas un conseil.
 
-Séance observée : 2026-07-17.
+Séance observée : 2026-07-20.
 
 ## Activité d'observation
 - 13 actifs suivis sur 13.
 - 9 configurations déclenchées, 4 sans déclenchement.
 - 1 épisode(s) de faible volatilité sur la période.
-- Bilan de la journée : négatif, niveau de référence — rien à conclure.
+- Bilan de la journée : positif, niveau de référence — rien à conclure.
 
 ## Lecture du marché
 - Tendance de fond : consolidation 8 sur 13, transition 3 sur 13, hausse 2 sur 13. Marché globalement sans direction franche.
-- Volatilité : élevée sur 7 des 13 actifs à la dernière séance.
+- Volatilité : élevée sur 8 des 13 actifs à la dernière séance.
 - Une dimension d'analyse (moment de la séance) a été écartée car trop peu fréquente pour être fiable — sans réglage a posteriori.
 
 ## Lecture par actif (timeframe calculé : 1D — quotidien)
@@ -30,7 +30,7 @@ Séance observée : 2026-07-17.
 | XLY | 1D | neutre | range | élevée |
 | XLP | 1D | neutre | range | élevée |
 | XLI | 1D | neutre | range | élevée |
-| XLU | 1D | neutre | transition | normale |
+| XLU | 1D | neutre | transition | élevée |
 | XLB | 1D | neutre | range | élevée |
 
 ## Signaux
