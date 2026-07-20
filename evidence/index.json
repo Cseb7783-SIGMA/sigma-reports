@@ -1,5 +1,8 @@
 {
   "generated_at": "2026-07-20",
+  "reference_session": "2026-07-17",
+  "stale": [],
+  "gap": [],
   "evidence": [
     {
       "id": "pc3072218",
@@ -10,7 +13,8 @@
       "updatedAt": "2026-07-12",
       "status": "En accumulation — non validé",
       "episodeCount": 18,
-      "tradeCount": 18
+      "tradeCount": 18,
+      "freshness": "à jour"
     },
     {
       "id": "p5cc0d29f",
@@ -19,7 +23,8 @@
       "timeframe": "Day trading",
       "configuration": "Configuration P-002",
       "updatedAt": "2026-07-12",
-      "status": "Candidat — non relié à un forward"
+      "status": "Candidat — non relié à un forward",
+      "freshness": "sans forward"
     },
     {
       "id": "p5fc97e02",
@@ -30,7 +35,8 @@
       "updatedAt": "2026-07-12",
       "status": "En accumulation — non validé",
       "episodeCount": 13,
-      "tradeCount": 11
+      "tradeCount": 11,
+      "freshness": "à jour"
     },
     {
       "id": "p64e8e81f",
@@ -39,7 +45,8 @@
       "timeframe": "Day trading",
       "configuration": "Configuration P-004",
       "updatedAt": "2026-07-12",
-      "status": "Candidat — non relié à un forward"
+      "status": "Candidat — non relié à un forward",
+      "freshness": "sans forward"
     },
     {
       "id": "pb5e4ce1b",
@@ -50,7 +57,8 @@
       "updatedAt": "2026-07-12",
       "status": "En accumulation — non validé",
       "episodeCount": 17,
-      "tradeCount": 17
+      "tradeCount": 17,
+      "freshness": "à jour"
     }
   ]
 }
