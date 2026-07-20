@@ -3,9 +3,11 @@
     {
       "id": "tc1e6404f",
       "episodeId": "e9f71bbaa",
-      "openedAt": "2026-07-13",
-      "closedAt": "2026-07-13",
-      "resultStatus": "Trade observé — non validé"
+      "direction": "Short",
+      "openedAt": "10 h 15",
+      "duration": "45 min",
+      "result": "Perte",
+      "exit": "Stop atteint"
     }
   ]
 }

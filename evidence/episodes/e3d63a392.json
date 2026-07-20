@@ -3,9 +3,11 @@
     {
       "id": "tbda6f882",
       "episodeId": "e3d63a392",
-      "openedAt": "2026-06-30",
-      "closedAt": "2026-06-30",
-      "resultStatus": "Trade observé — non validé"
+      "direction": "Long",
+      "openedAt": "10 h 20",
+      "duration": "5 h 35",
+      "result": "Gain",
+      "exit": "Fin de séance"
     }
   ]
 }

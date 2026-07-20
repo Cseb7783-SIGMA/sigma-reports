@@ -3,9 +3,11 @@
     {
       "id": "tf5cadebf",
       "episodeId": "e2d272ea3",
-      "openedAt": "2026-06-22",
-      "closedAt": "2026-06-22",
-      "resultStatus": "Trade observé — non validé"
+      "direction": "Long",
+      "openedAt": "9 h 45",
+      "duration": "45 min",
+      "result": "Perte",
+      "exit": "Stop atteint"
     }
   ]
 }
