@@ -4,7 +4,7 @@
   "expected_session": "2026-07-20",
   "calendar": "XNYS",
   "summary": {
-    "stale": 2,
+    "zero": 2,
     "result": 1
   },
   "statuses": [
@@ -13,13 +13,13 @@
       "asset": "IWM",
       "timeframe": "Day trading",
       "configuration": "Configuration P-001",
-      "status": "stale",
-      "episodesToday": 0,
+      "status": "zero",
+      "episodesToday": 1,
       "tradesToday": 0,
       "cumulative": {
-        "sessions": 18,
+        "sessions": 24,
         "trades": 18,
-        "zeros": 0
+        "zeros": 6
       }
     },
     {
@@ -41,13 +41,13 @@
       "asset": "SPY",
       "timeframe": "Day trading",
       "configuration": "Configuration P-005",
-      "status": "stale",
-      "episodesToday": 0,
+      "status": "zero",
+      "episodesToday": 1,
       "tradesToday": 0,
       "cumulative": {
-        "sessions": 17,
+        "sessions": 24,
         "trades": 17,
-        "zeros": 0
+        "zeros": 7
       }
     }
   ]

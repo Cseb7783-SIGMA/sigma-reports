@@ -6,8 +6,8 @@
       "label": "Épisode 2026-06-15",
       "startDate": "2026-06-15",
       "endDate": "2026-06-15",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
     },
     {
@@ -16,8 +16,8 @@
       "label": "Épisode 2026-06-16",
       "startDate": "2026-06-16",
       "endDate": "2026-06-16",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
     },
     {
@@ -26,8 +26,8 @@
       "label": "Épisode 2026-06-17",
       "startDate": "2026-06-17",
       "endDate": "2026-06-17",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
     },
     {
@@ -36,8 +36,8 @@
       "label": "Épisode 2026-06-18",
       "startDate": "2026-06-18",
       "endDate": "2026-06-18",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
     },
     {
@@ -46,8 +46,8 @@
       "label": "Épisode 2026-06-22",
       "startDate": "2026-06-22",
       "endDate": "2026-06-22",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
     },
     {
@@ -56,8 +56,8 @@
       "label": "Épisode 2026-06-23",
       "startDate": "2026-06-23",
       "endDate": "2026-06-23",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
     },
     {
@@ -66,9 +66,29 @@
       "label": "Épisode 2026-06-24",
       "startDate": "2026-06-24",
       "endDate": "2026-06-24",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
+    },
+    {
+      "id": "eb273565d",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-06-25",
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-25",
+      "status": "Aucun trade",
+      "context": "Volatilité normale",
+      "tradeCount": 0
+    },
+    {
+      "id": "e618dff4a",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-06-26",
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-26",
+      "status": "Aucun trade",
+      "context": "Volatilité normale",
+      "tradeCount": 0
     },
     {
       "id": "e1680facc",
@@ -76,9 +96,29 @@
       "label": "Épisode 2026-06-29",
       "startDate": "2026-06-29",
       "endDate": "2026-06-29",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
+    },
+    {
+      "id": "ec4c4a47f",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-06-30",
+      "startDate": "2026-06-30",
+      "endDate": "2026-06-30",
+      "status": "Aucun trade",
+      "context": "Volatilité normale",
+      "tradeCount": 0
+    },
+    {
+      "id": "eb168928d",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-07-01",
+      "startDate": "2026-07-01",
+      "endDate": "2026-07-01",
+      "status": "Aucun trade",
+      "context": "Volatilité normale",
+      "tradeCount": 0
     },
     {
       "id": "ec13bba32",
@@ -86,8 +126,8 @@
       "label": "Épisode 2026-07-02",
       "startDate": "2026-07-02",
       "endDate": "2026-07-02",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
     },
     {
@@ -96,8 +136,8 @@
       "label": "Épisode 2026-07-06",
       "startDate": "2026-07-06",
       "endDate": "2026-07-06",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
     },
     {
@@ -106,8 +146,8 @@
       "label": "Épisode 2026-07-07",
       "startDate": "2026-07-07",
       "endDate": "2026-07-07",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
     },
     {
@@ -116,8 +156,8 @@
       "label": "Épisode 2026-07-08",
       "startDate": "2026-07-08",
       "endDate": "2026-07-08",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
     },
     {
@@ -126,8 +166,8 @@
       "label": "Épisode 2026-07-09",
       "startDate": "2026-07-09",
       "endDate": "2026-07-09",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
     },
     {
@@ -136,8 +176,8 @@
       "label": "Épisode 2026-07-10",
       "startDate": "2026-07-10",
       "endDate": "2026-07-10",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
     },
     {
@@ -146,9 +186,19 @@
       "label": "Épisode 2026-07-13",
       "startDate": "2026-07-13",
       "endDate": "2026-07-13",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
+    },
+    {
+      "id": "ec7e761f4",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-07-14",
+      "startDate": "2026-07-14",
+      "endDate": "2026-07-14",
+      "status": "Aucun trade",
+      "context": "Volatilité normale",
+      "tradeCount": 0
     },
     {
       "id": "ea8d32432",
@@ -156,8 +206,8 @@
       "label": "Épisode 2026-07-15",
       "startDate": "2026-07-15",
       "endDate": "2026-07-15",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
       "tradeCount": 1
     },
     {
@@ -166,8 +216,8 @@
       "label": "Épisode 2026-07-16",
       "startDate": "2026-07-16",
       "endDate": "2026-07-16",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité faible",
       "tradeCount": 1
     },
     {
@@ -176,9 +226,19 @@
       "label": "Épisode 2026-07-17",
       "startDate": "2026-07-17",
       "endDate": "2026-07-17",
-      "status": "Trade observé",
-      "context": null,
+      "status": "Épisode mesuré",
+      "context": "Volatilité faible",
       "tradeCount": 1
+    },
+    {
+      "id": "e1606d180",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-07-20",
+      "startDate": "2026-07-20",
+      "endDate": "2026-07-20",
+      "status": "Aucun trade",
+      "context": "Volatilité faible",
+      "tradeCount": 0
     }
   ]
 }
