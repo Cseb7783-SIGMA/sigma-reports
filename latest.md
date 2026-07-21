@@ -6,9 +6,9 @@ Séance observée : 2026-07-20.
 
 ## Activité d'observation
 - 13 actifs suivis sur 13.
-- 9 configurations déclenchées, 4 sans déclenchement.
+- 0 configurations déclenchées, 0 sans déclenchement.
 - 1 épisode(s) de faible volatilité sur la période.
-- Bilan de la journée : positif, niveau de référence — rien à conclure.
+- Bilan de la journée : neutre, niveau de référence — rien à conclure.
 
 ## Lecture du marché
 - Tendance de fond : consolidation 8 sur 13, transition 3 sur 13, hausse 2 sur 13. Marché globalement sans direction franche.
