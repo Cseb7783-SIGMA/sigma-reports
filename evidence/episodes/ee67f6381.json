@@ -1,0 +1,13 @@
+{
+  "trades": [
+    {
+      "id": "td42eb222",
+      "episodeId": "ee67f6381",
+      "direction": "Long",
+      "openedAt": "9 h 40",
+      "duration": "45 min",
+      "result": "-1 R",
+      "exit": "Stop atteint"
+    }
+  ]
+}

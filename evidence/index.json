@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-07-21",
-  "reference_session": "2026-07-21",
-  "stale": [],
+  "generated_at": "2026-07-22",
+  "reference_session": "2026-07-22",
+  "stale": [
+    "pc3072218",
+    "pb5e4ce1b"
+  ],
   "gap": [],
   "evidence": [
     {
@@ -11,8 +14,10 @@
       "timeframe": "Day trading",
       "configuration": "Configuration P-001",
       "updatedAt": "2026-07-12",
-      "status": "Candidat — non relié à un forward",
-      "freshness": "sans forward"
+      "status": "En accumulation — non validé",
+      "episodeCount": 24,
+      "tradeCount": 18,
+      "freshness": "périmé"
     },
     {
       "id": "p5cc0d29f",
@@ -31,8 +36,10 @@
       "timeframe": "Day trading",
       "configuration": "Configuration P-003",
       "updatedAt": "2026-07-12",
-      "status": "Candidat — non relié à un forward",
-      "freshness": "sans forward"
+      "status": "En accumulation — non validé",
+      "episodeCount": 15,
+      "tradeCount": 13,
+      "freshness": "à jour"
     },
     {
       "id": "p64e8e81f",
@@ -51,8 +58,10 @@
       "timeframe": "Day trading",
       "configuration": "Configuration P-005",
       "updatedAt": "2026-07-12",
-      "status": "Candidat — non relié à un forward",
-      "freshness": "sans forward"
+      "status": "En accumulation — non validé",
+      "episodeCount": 24,
+      "tradeCount": 17,
+      "freshness": "périmé"
     }
   ]
 }
