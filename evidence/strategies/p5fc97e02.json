@@ -149,6 +149,16 @@
       "status": "Épisode mesuré",
       "context": "Volatilité normale",
       "tradeCount": 1
+    },
+    {
+      "id": "e88a0a648",
+      "evidenceId": "p5fc97e02",
+      "label": "Épisode 2026-07-23",
+      "startDate": "2026-07-23",
+      "endDate": "2026-07-23",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 1
     }
   ]
 }

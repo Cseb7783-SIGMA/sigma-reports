@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-22",
-  "expected_session": "2026-07-22",
+  "generated_at": "2026-07-23",
+  "expected_session": "2026-07-23",
   "calendar": "XNYS",
   "summary": {
     "stale": 2,
@@ -31,8 +31,8 @@
       "episodesToday": 1,
       "tradesToday": 1,
       "cumulative": {
-        "sessions": 15,
-        "trades": 13,
+        "sessions": 16,
+        "trades": 14,
         "zeros": 2
       }
     },
