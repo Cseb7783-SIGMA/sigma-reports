@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23",
-  "reference_session": "2026-07-23",
+  "generated_at": "2026-07-24",
+  "reference_session": "2026-07-24",
   "stale": [
     "pc3072218",
     "pb5e4ce1b"
@@ -37,7 +37,7 @@
       "configuration": "Configuration P-003",
       "updatedAt": "2026-07-12",
       "status": "En accumulation — non validé",
-      "episodeCount": 16,
+      "episodeCount": 17,
       "tradeCount": 14,
       "freshness": "à jour"
     },
