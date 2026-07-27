@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-24",
-  "expected_session": "2026-07-24",
+  "generated_at": "2026-07-27",
+  "expected_session": "2026-07-27",
   "calendar": "XNYS",
   "summary": {
     "stale": 2,
-    "zero": 1
+    "result": 1
   },
   "statuses": [
     {
@@ -27,12 +27,12 @@
       "asset": "QQQ",
       "timeframe": "Day trading",
       "configuration": "Configuration P-003",
-      "status": "zero",
+      "status": "result",
       "episodesToday": 1,
-      "tradesToday": 0,
+      "tradesToday": 1,
       "cumulative": {
-        "sessions": 17,
-        "trades": 14,
+        "sessions": 19,
+        "trades": 16,
         "zeros": 3
       }
     },
