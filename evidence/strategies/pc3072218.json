@@ -239,6 +239,76 @@
       "status": "Aucun trade",
       "context": "Volatilité faible",
       "tradeCount": 0
+    },
+    {
+      "id": "e4ea3f6b2",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-07-21",
+      "startDate": "2026-07-21",
+      "endDate": "2026-07-21",
+      "status": "Épisode mesuré",
+      "context": "Volatilité faible",
+      "tradeCount": 1
+    },
+    {
+      "id": "e8a64addb",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-07-22",
+      "startDate": "2026-07-22",
+      "endDate": "2026-07-22",
+      "status": "Aucun trade",
+      "context": "Volatilité faible",
+      "tradeCount": 0
+    },
+    {
+      "id": "e980f558c",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-07-23",
+      "startDate": "2026-07-23",
+      "endDate": "2026-07-23",
+      "status": "Épisode mesuré",
+      "context": "Volatilité faible",
+      "tradeCount": 1
+    },
+    {
+      "id": "ec7137ddc",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-07-24",
+      "startDate": "2026-07-24",
+      "endDate": "2026-07-24",
+      "status": "Épisode mesuré",
+      "context": "Volatilité faible",
+      "tradeCount": 1
+    },
+    {
+      "id": "e8b244c1f",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-07-27",
+      "startDate": "2026-07-27",
+      "endDate": "2026-07-27",
+      "status": "Aucun trade",
+      "context": "Volatilité faible",
+      "tradeCount": 0
+    },
+    {
+      "id": "e72104dd5",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-07-28",
+      "startDate": "2026-07-28",
+      "endDate": "2026-07-28",
+      "status": "Épisode mesuré",
+      "context": "Volatilité faible",
+      "tradeCount": 1
+    },
+    {
+      "id": "ebdb9f281",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-07-29",
+      "startDate": "2026-07-29",
+      "endDate": "2026-07-29",
+      "status": "Aucun trade",
+      "context": "Volatilité faible",
+      "tradeCount": 0
     }
   ]
 }

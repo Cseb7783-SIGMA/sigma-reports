@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-28",
-  "expected_session": "2026-07-28",
+  "generated_at": "2026-07-29",
+  "expected_session": "2026-07-29",
   "calendar": "XNYS",
   "summary": {
-    "stale": 2,
+    "zero": 2,
     "result": 1
   },
   "statuses": [
@@ -13,13 +13,13 @@
       "asset": "IWM",
       "timeframe": "Day trading",
       "configuration": "Configuration P-001",
-      "status": "stale",
-      "episodesToday": 0,
+      "status": "zero",
+      "episodesToday": 1,
       "tradesToday": 0,
       "cumulative": {
-        "sessions": 24,
-        "trades": 18,
-        "zeros": 6
+        "sessions": 31,
+        "trades": 22,
+        "zeros": 9
       }
     },
     {
@@ -27,13 +27,13 @@
       "asset": "QQQ",
       "timeframe": "Day trading",
       "configuration": "Configuration P-003",
-      "status": "result",
+      "status": "zero",
       "episodesToday": 1,
-      "tradesToday": 1,
+      "tradesToday": 0,
       "cumulative": {
-        "sessions": 20,
+        "sessions": 21,
         "trades": 17,
-        "zeros": 3
+        "zeros": 4
       }
     },
     {
@@ -41,12 +41,12 @@
       "asset": "SPY",
       "timeframe": "Day trading",
       "configuration": "Configuration P-005",
-      "status": "stale",
-      "episodesToday": 0,
-      "tradesToday": 0,
+      "status": "result",
+      "episodesToday": 1,
+      "tradesToday": 1,
       "cumulative": {
-        "sessions": 24,
-        "trades": 17,
+        "sessions": 31,
+        "trades": 24,
         "zeros": 7
       }
     }
