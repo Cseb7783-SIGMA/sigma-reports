@@ -319,6 +319,16 @@
       "status": "Aucun trade",
       "context": "Volatilité normale",
       "tradeCount": 0
+    },
+    {
+      "id": "eefd9c86d",
+      "evidenceId": "pb5e4ce1b",
+      "label": "Épisode 2026-07-31",
+      "startDate": "2026-07-31",
+      "endDate": "2026-07-31",
+      "status": "Épisode mesuré",
+      "context": "Volatilité normale",
+      "tradeCount": 1
     }
   ]
 }
