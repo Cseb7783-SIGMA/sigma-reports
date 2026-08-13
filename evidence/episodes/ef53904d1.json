@@ -1,0 +1,13 @@
+{
+  "trades": [
+    {
+      "id": "t45abfbac",
+      "episodeId": "ef53904d1",
+      "direction": "Long",
+      "openedAt": "9 h 45",
+      "duration": "6 h 10",
+      "result": "+0,2 R",
+      "exit": "Fin de séance"
+    }
+  ]
+}
