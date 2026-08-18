@@ -1,0 +1,17 @@
+{
+  "id": "t8d4ef060",
+  "episodeId": "e8af2439d",
+  "record": {
+    "context": "Volatilité faible — 2026-08-18",
+    "observations": null,
+    "agentDecision": null,
+    "entry": null,
+    "stop": null,
+    "target": null,
+    "management": null,
+    "exit": null,
+    "result": null,
+    "postMortem": null,
+    "learning": null
+  }
+}
