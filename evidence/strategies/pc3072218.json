@@ -479,6 +479,26 @@
       "status": "Épisode mesuré",
       "context": "Volatilité faible",
       "tradeCount": 1
+    },
+    {
+      "id": "e9d0598ec",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-08-24",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "status": "Épisode mesuré",
+      "context": "Volatilité faible",
+      "tradeCount": 1
+    },
+    {
+      "id": "e85b14859",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-08-25",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-25",
+      "status": "Épisode mesuré",
+      "context": "Volatilité faible",
+      "tradeCount": 1
     }
   ]
 }

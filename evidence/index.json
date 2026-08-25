@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-08-24",
-  "reference_session": "2026-08-24",
-  "stale": [
-    "pc3072218"
-  ],
+  "generated_at": "2026-08-25",
+  "reference_session": "2026-08-25",
+  "stale": [],
   "gap": [],
   "evidence": [
     {
@@ -14,9 +12,9 @@
       "configuration": "Configuration P-001",
       "updatedAt": "2026-07-12",
       "status": "En accumulation — non validé",
-      "episodeCount": 48,
-      "tradeCount": 32,
-      "freshness": "périmé"
+      "episodeCount": 50,
+      "tradeCount": 34,
+      "freshness": "à jour"
     },
     {
       "id": "p5cc0d29f",
@@ -36,8 +34,8 @@
       "configuration": "Configuration P-003",
       "updatedAt": "2026-07-12",
       "status": "En accumulation — non validé",
-      "episodeCount": 39,
-      "tradeCount": 31,
+      "episodeCount": 40,
+      "tradeCount": 32,
       "freshness": "à jour"
     },
     {
@@ -58,7 +56,7 @@
       "configuration": "Configuration P-005",
       "updatedAt": "2026-07-12",
       "status": "En accumulation — non validé",
-      "episodeCount": 49,
+      "episodeCount": 50,
       "tradeCount": 41,
       "freshness": "à jour"
     }
