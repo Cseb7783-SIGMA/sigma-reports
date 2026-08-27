@@ -509,6 +509,16 @@
       "status": "Aucun trade",
       "context": "Volatilité faible",
       "tradeCount": 0
+    },
+    {
+      "id": "e2a75d38d",
+      "evidenceId": "pc3072218",
+      "label": "Épisode 2026-08-27",
+      "startDate": "2026-08-27",
+      "endDate": "2026-08-27",
+      "status": "Épisode mesuré",
+      "context": "Volatilité faible",
+      "tradeCount": 1
     }
   ]
 }
