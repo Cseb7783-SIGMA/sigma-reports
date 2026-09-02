@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-01",
-  "expected_session": "2026-09-01",
+  "generated_at": "2026-09-02",
+  "expected_session": "2026-09-02",
   "calendar": "XNYS",
   "summary": {
-    "zero": 2,
-    "result": 1
+    "result": 3
   },
   "statuses": [
     {
@@ -13,12 +12,12 @@
       "asset": "IWM",
       "timeframe": "Day trading",
       "configuration": "Configuration P-001",
-      "status": "zero",
+      "status": "result",
       "episodesToday": 1,
-      "tradesToday": 0,
+      "tradesToday": 1,
       "cumulative": {
-        "sessions": 55,
-        "trades": 36,
+        "sessions": 56,
+        "trades": 37,
         "zeros": 19
       }
     },
@@ -27,12 +26,12 @@
       "asset": "QQQ",
       "timeframe": "Day trading",
       "configuration": "Configuration P-003",
-      "status": "zero",
+      "status": "result",
       "episodesToday": 1,
-      "tradesToday": 0,
+      "tradesToday": 1,
       "cumulative": {
-        "sessions": 45,
-        "trades": 36,
+        "sessions": 46,
+        "trades": 37,
         "zeros": 9
       }
     },
@@ -45,8 +44,8 @@
       "episodesToday": 1,
       "tradesToday": 1,
       "cumulative": {
-        "sessions": 55,
-        "trades": 45,
+        "sessions": 56,
+        "trades": 46,
         "zeros": 10
       }
     }
