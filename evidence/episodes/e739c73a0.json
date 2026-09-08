@@ -1,0 +1,13 @@
+{
+  "trades": [
+    {
+      "id": "tac26261d",
+      "episodeId": "e739c73a0",
+      "direction": "Short",
+      "openedAt": "9 h 50",
+      "duration": "6 h 05",
+      "result": "-0,2 R",
+      "exit": "Fin de séance"
+    }
+  ]
+}
