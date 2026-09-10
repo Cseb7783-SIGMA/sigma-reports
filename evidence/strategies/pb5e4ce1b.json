@@ -599,6 +599,16 @@
       "status": "Aucun trade",
       "context": "Volatilité faible",
       "tradeCount": 0
+    },
+    {
+      "id": "ef96cf02d",
+      "evidenceId": "pb5e4ce1b",
+      "label": "Épisode 2026-09-10",
+      "startDate": "2026-09-10",
+      "endDate": "2026-09-10",
+      "status": "Épisode mesuré",
+      "context": "Volatilité faible",
+      "tradeCount": 1
     }
   ]
 }
