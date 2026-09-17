@@ -1,11 +1,10 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-16",
-  "expected_session": "2026-09-16",
+  "generated_at": "2026-09-17",
+  "expected_session": "2026-09-17",
   "calendar": "XNYS",
   "summary": {
-    "result": 2,
-    "zero": 1
+    "result": 3
   },
   "statuses": [
     {
@@ -17,8 +16,8 @@
       "episodesToday": 1,
       "tradesToday": 1,
       "cumulative": {
-        "sessions": 65,
-        "trades": 43,
+        "sessions": 66,
+        "trades": 44,
         "zeros": 22
       }
     },
@@ -31,8 +30,8 @@
       "episodesToday": 1,
       "tradesToday": 1,
       "cumulative": {
-        "sessions": 55,
-        "trades": 46,
+        "sessions": 56,
+        "trades": 47,
         "zeros": 9
       }
     },
@@ -41,12 +40,12 @@
       "asset": "SPY",
       "timeframe": "Day trading",
       "configuration": "Configuration P-005",
-      "status": "zero",
+      "status": "result",
       "episodesToday": 1,
-      "tradesToday": 0,
+      "tradesToday": 1,
       "cumulative": {
-        "sessions": 65,
-        "trades": 51,
+        "sessions": 66,
+        "trades": 52,
         "zeros": 14
       }
     }
