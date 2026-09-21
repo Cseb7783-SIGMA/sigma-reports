@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18",
-  "reference_session": "2026-09-18",
+  "generated_at": "2026-09-21",
+  "reference_session": "2026-09-21",
   "stale": [],
   "gap": [],
   "evidence": [
@@ -12,8 +12,8 @@
       "configuration": "Configuration P-001",
       "updatedAt": "2026-07-12",
       "status": "En accumulation — non validé",
-      "episodeCount": 67,
-      "tradeCount": 45,
+      "episodeCount": 68,
+      "tradeCount": 46,
       "freshness": "à jour"
     },
     {
@@ -34,8 +34,8 @@
       "configuration": "Configuration P-003",
       "updatedAt": "2026-07-12",
       "status": "En accumulation — non validé",
-      "episodeCount": 57,
-      "tradeCount": 48,
+      "episodeCount": 58,
+      "tradeCount": 49,
       "freshness": "à jour"
     },
     {
@@ -56,8 +56,8 @@
       "configuration": "Configuration P-005",
       "updatedAt": "2026-07-12",
       "status": "En accumulation — non validé",
-      "episodeCount": 67,
-      "tradeCount": 53,
+      "episodeCount": 68,
+      "tradeCount": 54,
       "freshness": "à jour"
     }
   ]
