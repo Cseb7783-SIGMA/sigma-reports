@@ -1,0 +1,13 @@
+{
+  "trades": [
+    {
+      "id": "t015c7ec8",
+      "episodeId": "e786786e9",
+      "direction": "Short",
+      "openedAt": "9 h 40",
+      "duration": "1 h 30",
+      "result": "-1 R",
+      "exit": "Stop atteint"
+    }
+  ]
+}
