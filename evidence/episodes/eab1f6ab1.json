@@ -1,0 +1,13 @@
+{
+  "trades": [
+    {
+      "id": "te051fe20",
+      "episodeId": "eab1f6ab1",
+      "direction": "Short",
+      "openedAt": "9 h 50",
+      "duration": "5 min",
+      "result": "+3 R",
+      "exit": "Cible atteinte"
+    }
+  ]
+}
