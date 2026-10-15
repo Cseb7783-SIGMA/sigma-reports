@@ -849,6 +849,16 @@
       "status": "Épisode mesuré",
       "context": "Volatilité faible",
       "tradeCount": 1
+    },
+    {
+      "id": "e3af721d4",
+      "evidenceId": "pb5e4ce1b",
+      "label": "Épisode 2026-10-15",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-15",
+      "status": "Épisode mesuré",
+      "context": "Volatilité faible",
+      "tradeCount": 1
     }
   ]
 }
