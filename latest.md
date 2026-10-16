@@ -1,8 +1,8 @@
-# Sigma — Lecture du marché du matin — 2026-10-15
+# Sigma — Lecture du marché du matin — 2026-10-16
 
 Statut : observation seulement, exploratoire. Rien n'est confirmé ni validé. Aucune position réelle. Pour information, pas un conseil.
 
-Séance observée : 2026-10-15.
+Séance observée : 2026-10-16.
 
 ## Activité d'observation
 - 13 actifs suivis sur 13.
@@ -12,7 +12,7 @@ Séance observée : 2026-10-15.
 
 ## Lecture du marché
 - Tendance de fond : consolidation 9 sur 13, transition 6 sur 13, hausse 4 sur 13. Marché globalement sans direction franche.
-- Volatilité : élevée sur 3 des 13 actifs à la dernière séance.
+- Volatilité : élevée sur 5 des 13 actifs à la dernière séance.
 - Une dimension d'analyse (moment de la séance) a été écartée car trop peu fréquente pour être fiable — sans réglage a posteriori.
 
 ## Lecture par actif (timeframe calculé : 1D — quotidien)
@@ -23,14 +23,14 @@ Séance observée : 2026-10-15.
 | SPY | 1D | haussier | tendance | normale |
 | IWM | 1D | neutre | range | normale |
 | DIA | 1D | neutre | transition | normale |
-| XLK | 1D | haussier | tendance | normale |
+| XLK | 1D | haussier | tendance | élevée |
 | XLF | 1D | neutre | range | normale |
 | XLE | 1D | neutre | range | normale |
 | XLV | 1D | neutre | range | élevée |
 | XLY | 1D | neutre | range | normale |
 | XLP | 1D | neutre | range | élevée |
 | XLI | 1D | neutre | range | élevée |
-| XLU | 1D | neutre | transition | normale |
+| XLU | 1D | neutre | transition | élevée |
 | XLB | 1D | neutre | range | normale |
 | TSLA | 1D | neutre | transition | n/d |
 | NVDA | 1D | haussier | tendance | n/d |
