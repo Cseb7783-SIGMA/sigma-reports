@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-19",
-  "expected_session": "2026-10-19",
+  "generated_at": "2026-10-20",
+  "expected_session": "2026-10-20",
   "calendar": "XNYS",
   "summary": {
     "result": 2,
@@ -17,8 +17,8 @@
       "episodesToday": 1,
       "tradesToday": 1,
       "cumulative": {
-        "sessions": 88,
-        "trades": 63,
+        "sessions": 89,
+        "trades": 64,
         "zeros": 25
       }
     },
@@ -27,13 +27,13 @@
       "asset": "QQQ",
       "timeframe": "Day trading",
       "configuration": "Configuration P-003",
-      "status": "result",
+      "status": "zero",
       "episodesToday": 1,
-      "tradesToday": 1,
+      "tradesToday": 0,
       "cumulative": {
-        "sessions": 78,
+        "sessions": 79,
         "trades": 69,
-        "zeros": 9
+        "zeros": 10
       }
     },
     {
@@ -41,12 +41,12 @@
       "asset": "SPY",
       "timeframe": "Day trading",
       "configuration": "Configuration P-005",
-      "status": "zero",
+      "status": "result",
       "episodesToday": 1,
-      "tradesToday": 0,
+      "tradesToday": 1,
       "cumulative": {
-        "sessions": 88,
-        "trades": 71,
+        "sessions": 89,
+        "trades": 72,
         "zeros": 17
       }
     }
