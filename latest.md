@@ -1,28 +1,28 @@
-# Sigma — Lecture du marché du matin — 2026-10-22
+# Sigma — Lecture du marché du matin — 2026-10-23
 
 Statut : observation seulement, exploratoire. Rien n'est confirmé ni validé. Aucune position réelle. Pour information, pas un conseil.
 
-Séance observée : 2026-10-22.
+Séance observée : 2026-10-23.
 
 ## Activité d'observation
 - 13 actifs suivis sur 13.
 - 11 configurations déclenchées, 2 sans déclenchement.
-- 3 épisode(s) de faible volatilité sur la période.
+- 1 épisode(s) de faible volatilité sur la période.
 - Bilan de la journée : négatif, niveau de référence — rien à conclure.
 
 ## Lecture du marché
 - Tendance de fond : consolidation 9 sur 13, transition 6 sur 13, hausse 4 sur 13. Marché globalement sans direction franche.
-- Volatilité : élevée sur 5 des 13 actifs à la dernière séance.
+- Volatilité : élevée sur 6 des 13 actifs à la dernière séance.
 - Une dimension d'analyse (moment de la séance) a été écartée car trop peu fréquente pour être fiable — sans réglage a posteriori.
 
 ## Lecture par actif (timeframe calculé : 1D — quotidien)
 
 | actif | timeframe | direction | régime | volatilité |
 |---|---|---|---|---|
-| QQQ | 1D | neutre | transition | normale |
+| QQQ | 1D | neutre | transition | élevée |
 | SPY | 1D | haussier | tendance | normale |
 | IWM | 1D | neutre | range | normale |
-| DIA | 1D | neutre | transition | n/d |
+| DIA | 1D | neutre | transition | normale |
 | XLK | 1D | haussier | tendance | élevée |
 | XLF | 1D | neutre | range | normale |
 | XLE | 1D | neutre | range | normale |

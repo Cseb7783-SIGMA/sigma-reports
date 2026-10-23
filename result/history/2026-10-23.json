@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-22",
-  "expected_session": "2026-10-22",
+  "generated_at": "2026-10-23",
+  "expected_session": "2026-10-23",
   "calendar": "XNYS",
   "summary": {
     "result": 3
@@ -16,8 +16,8 @@
       "episodesToday": 1,
       "tradesToday": 1,
       "cumulative": {
-        "sessions": 91,
-        "trades": 66,
+        "sessions": 92,
+        "trades": 67,
         "zeros": 25
       }
     },
@@ -30,8 +30,8 @@
       "episodesToday": 1,
       "tradesToday": 1,
       "cumulative": {
-        "sessions": 81,
-        "trades": 71,
+        "sessions": 82,
+        "trades": 72,
         "zeros": 10
       }
     },
@@ -44,8 +44,8 @@
       "episodesToday": 1,
       "tradesToday": 1,
       "cumulative": {
-        "sessions": 91,
-        "trades": 74,
+        "sessions": 92,
+        "trades": 75,
         "zeros": 17
       }
     }
