@@ -1,12 +1,12 @@
-# Sigma — Lecture du marché du matin — 2026-10-26
+# Sigma — Lecture du marché du matin — 2026-10-27
 
 Statut : observation seulement, exploratoire. Rien n'est confirmé ni validé. Aucune position réelle. Pour information, pas un conseil.
 
-Séance observée : 2026-10-26.
+Séance observée : 2026-10-27.
 
 ## Activité d'observation
 - 13 actifs suivis sur 13.
-- 13 configurations déclenchées, 0 sans déclenchement.
+- 7 configurations déclenchées, 6 sans déclenchement.
 - 1 épisode(s) de faible volatilité sur la période.
 - Bilan de la journée : négatif, niveau de référence — rien à conclure.
 
