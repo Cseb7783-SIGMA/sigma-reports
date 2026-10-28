@@ -1,7 +1,11 @@
 {
-  "generated_at": "2026-10-27",
-  "reference_session": "2026-10-27",
-  "stale": [],
+  "generated_at": "2026-10-28",
+  "reference_session": "2026-10-28",
+  "stale": [
+    "pc3072218",
+    "p5fc97e02",
+    "pb5e4ce1b"
+  ],
   "gap": [],
   "evidence": [
     {
@@ -14,7 +18,7 @@
       "status": "En accumulation — non validé",
       "episodeCount": 94,
       "tradeCount": 69,
-      "freshness": "à jour"
+      "freshness": "périmé"
     },
     {
       "id": "p5cc0d29f",
@@ -36,7 +40,7 @@
       "status": "En accumulation — non validé",
       "episodeCount": 84,
       "tradeCount": 73,
-      "freshness": "à jour"
+      "freshness": "périmé"
     },
     {
       "id": "p64e8e81f",
@@ -58,7 +62,7 @@
       "status": "En accumulation — non validé",
       "episodeCount": 94,
       "tradeCount": 76,
-      "freshness": "à jour"
+      "freshness": "périmé"
     }
   ]
 }
