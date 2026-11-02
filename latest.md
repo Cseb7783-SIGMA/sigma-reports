@@ -1,4 +1,4 @@
-# Sigma — Lecture du marché du matin — 2026-10-30
+# Sigma — Lecture du marché du matin — 2026-11-02
 
 Statut : observation seulement, exploratoire. Rien n'est confirmé ni validé. Aucune position réelle. Pour information, pas un conseil.
 
